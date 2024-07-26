@@ -11,7 +11,7 @@ In this repository a webpage is displayed by fetching the data of all Harry Pott
 
 ## API's Used :
 
-1. EmojiHub API: [https://hp-api.onrender.com/api/characters](https://hp-api.onrender.com/api/characters)
+1. API: [https://hp-api.onrender.com/api/characters](https://hp-api.onrender.com/api/characters)
 
 ## Deployment Link:
 

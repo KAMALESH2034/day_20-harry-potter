@@ -1,0 +1,59 @@
+
+body{
+    
+    font-weight: normal;
+    font-style: normal;
+     background-image: url(imagehp.png);
+     background-attachment: fixed;
+     background-size: 100% 100%;
+     
+ }
+ .heading{
+    font-family: ‘Harry Potter’;
+   
+     letter-spacing: 5px;
+     padding:2%;
+     color:#f35959;
+     text-shadow: 2px 2px rgb(255, 230, 2);
+     text-align: center;
+     font-size: 50px;
+     font-weight: 400;
+ }
+ .container{
+     display: flex;
+     flex-wrap: wrap;
+     margin: 10px;
+     padding: 8px;
+     row-gap: 15px;
+     justify-content: space-around;
+     
+ }
+ .card{
+    padding: 0;
+    margin: 0;
+     color: rgb(9, 47, 81) ;
+     font-size: 17px;
+     font-weight: bold;
+     border-radius: 1% !important;
+     background: rgb(200,198,80);
+     background: linear-gradient(90deg, rgba(200,198,80,0.7457107843137255) 21%, rgba(56,90,123,1) 85%);
+
+
+ }
+ .card :hover{
+     cursor: pointer;
+ }
+
+ .card-img{
+    padding-top: 0px;
+    position:relative;
+    text-align:center;
+    background:#CB6074;
+    img{
+        max-height:250px;
+        width:100%;
+        border-bottom:4px solid #ea0831;
+    }
+
+    
+}

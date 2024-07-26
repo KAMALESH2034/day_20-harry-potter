@@ -15,4 +15,4 @@ In this repository a webpage is displayed by fetching the data of all Harry Pott
 
 ## Deployment Link:
 
-thru' GitHub Page : [https://kamalesh2034.github.io/emoji_to_clipboard/](https://kamalesh2034.github.io/emoji_to_clipboard/)
+thru' netlify : [https://aesthetic-dodol-149a00.netlify.app/](https://aesthetic-dodol-149a00.netlify.app/)
